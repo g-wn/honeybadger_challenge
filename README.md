@@ -52,6 +52,7 @@ If you prefer to use your own Slack Workspace:
 
 ## 3. Send a POST request:
 
+- Be sure to re-start your Express server after modifying the .env file.
 - With the Express server running:
 
   - Use Postman (or your favorite alternative) to send two POST requests, one with each of the following JSON bodies:
